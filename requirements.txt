@@ -1,0 +1,4 @@
+requests
+python-dotenv
+aiohttp
+# browser_use and browser_use.llm are custom modules and must be installed or implemented separately
